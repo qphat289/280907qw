@@ -24,6 +24,7 @@
       "tools": "tools"
     }
   },
+  
   "mllm_demo": {
     "file_name": "mllm_demo.json",
     "formatting": "sharegpt",
@@ -37,6 +38,7 @@
       "user_tag": "user",
       "assistant_tag": "assistant"
     }
+
   },
   "mllm_video_demo": {
     "file_name": "mllm_video_demo.json",
@@ -52,6 +54,37 @@
       "assistant_tag": "assistant"
     }
   },
+
+  "vista_data": {
+    "file_name": "newest_qwenvl2.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "vista_data_kaggle": {
+    "file_name": "vista_data_kaggle.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
   "alpaca_en": {
     "hf_hub_url": "llamafactory/alpaca_en",
     "ms_hub_url": "llamafactory/alpaca_en",

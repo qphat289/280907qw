@@ -1,0 +1,17 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>Người đàn ông này sẽ đi đâu trên chiếc mô tô của mình?",
+        "role": "user"
+      },
+      {
+        "content": "Người đàn ông đang lái chiếc xe máy trên con đường đất ở vùng nông thôn. Anh ta có nhiều lựa chọn về nơi mình có thể đi. Anh ta có thể đang đi đến một địa điểm cụ thể, chẳng hạn như thăm người thân, chạy một công việc vặt hoặc khám phá khu vực. Anh ta cũng có thể đang lái xe để giải trí, tận hưởng phong cảnh và cảm giác sảng khoái khi lái xe trên đường. Dựa trên bối cảnh, có khả năng anh ta đang đi đến một địa điểm cụ thể vì con đường đất dẫn đến một điểm xa hơn. Tuy nhiên, đích đến cuối cùng của anh ấy vẫn chưa được biết.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "000000391895.jpg"
+    ]
+  }]
+
