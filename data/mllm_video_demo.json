@@ -1,4 +1,1055 @@
-{
+[
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench. She is looking down and appears to be talking or thinking about something. She is wearing a purple and floral patterned dress and light-grey flats. The park bench is a dark gray color with light-yellow wooden slats for the seat and back rest. The park has a stone wall, green grass, and some trees. There are also some flowers in the park. The day appears sunny, as there are bright spots of sunlight on the grass and the woman.  The woman seems to be talking to herself or to someone who is not visible in the video, as she appears to be expressing some emotion, gesturing with her hands, etc.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (131).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench, looking at a smartphone. The person is wearing a red and black plaid shirt, dark blue jeans, and white sneakers with rose gold accents. A red headband is also worn. The person appears to be sending or reading messages on the smartphone. The bench is located outdoors in a paved area, with a brick wall behind it. Small, potted plants are visible in the background. The overall impression is of a casual, everyday scene.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (101).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a wooden park bench. The woman is wearing a purple and pink patterned dress. She is sitting on a bench that has wooden slats and black metal legs. The bench is located in a paved area with brick pavers. A brick wall is behind the bench. A small red pot is visible in the background. The video shows a series of still images of the woman, likely taken for social media or a similar purpose. The audio is unintelligible, but seems to be conversational in nature.  ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (90).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench, seemingly talking to herself or recording a video. She is wearing a red and maroon plaid shirt over a dark gray t-shirt with the words 'strong, sunny, smart' printed on it. She is also wearing a red headband, glasses, and light-gold colored canvas shoes. Her pants are dark blue jeans. The background is a brick wall and a paved area. There are some terracotta colored flowerpots visible in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (97).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench outdoors. They are looking at a smartphone and interacting with it, possibly scrolling through or looking at something on the phone.  The surrounding scenery includes a brick wall, a paved area with patterned paving stones, and potted plants (likely flower pots). The person is wearing a plaid shirt over a dark t-shirt with text on it, jeans, and casual shoes. They also have a red headband and glasses. ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (98).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking at a smartphone. The person is wearing a plaid shirt, dark blue jeans, and gold-colored sneakers. A red headband and glasses are also visible. The bench is made of light brown wood, with dark metal supports. The surrounding area is paved with colorful tiles, and a brick wall is visible behind the bench. Potted plants are also present in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (100).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking pensive. The person appears to be a young man, dressed in casual attire.  The bench is made of wood with metal supports.  A brick wall is visible in the background. The ground is paved with bricks. The person's facial expressions and body language suggest they are considering something.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (106).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench. She is looking down and appears to be talking or thinking about something. She is wearing a purple and floral patterned dress and light-grey flats. The park bench is a dark gray color with light-yellow wooden slats for the seat and back rest. The park has a stone wall, green grass, and some trees. There are also some flowers in the park. The day appears sunny, as there are bright spots of sunlight on the grass and the woman.  The woman seems to be talking to herself or to someone who is not visible in the video, as she appears to be expressing some emotion, gesturing with her hands, etc.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (131).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench, looking at a smartphone. The person is wearing a red and black plaid shirt, dark blue jeans, and white sneakers with rose gold accents. A red headband is also worn. The person appears to be sending or reading messages on the smartphone. The bench is located outdoors in a paved area, with a brick wall behind it. Small, potted plants are visible in the background. The overall impression is of a casual, everyday scene.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (101).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a wooden park bench. The woman is wearing a purple and pink patterned dress. She is sitting on a bench that has wooden slats and black metal legs. The bench is located in a paved area with brick pavers. A brick wall is behind the bench. A small red pot is visible in the background. The video shows a series of still images of the woman, likely taken for social media or a similar purpose. The audio is unintelligible, but seems to be conversational in nature.  ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (90).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench, seemingly talking to herself or recording a video. She is wearing a red and maroon plaid shirt over a dark gray t-shirt with the words 'strong, sunny, smart' printed on it. She is also wearing a red headband, glasses, and light-gold colored canvas shoes. Her pants are dark blue jeans. The background is a brick wall and a paved area. There are some terracotta colored flowerpots visible in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (97).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench outdoors. They are looking at a smartphone and interacting with it, possibly scrolling through or looking at something on the phone.  The surrounding scenery includes a brick wall, a paved area with patterned paving stones, and potted plants (likely flower pots). The person is wearing a plaid shirt over a dark t-shirt with text on it, jeans, and casual shoes. They also have a red headband and glasses. ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (98).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking at a smartphone. The person is wearing a plaid shirt, dark blue jeans, and gold-colored sneakers. A red headband and glasses are also visible. The bench is made of light brown wood, with dark metal supports. The surrounding area is paved with colorful tiles, and a brick wall is visible behind the bench. Potted plants are also present in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (100).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking pensive. The person appears to be a young man, dressed in casual attire.  The bench is made of wood with metal supports.  A brick wall is visible in the background. The ground is paved with bricks. The person's facial expressions and body language suggest they are considering something.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (106).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench. She is looking down and appears to be talking or thinking about something. She is wearing a purple and floral patterned dress and light-grey flats. The park bench is a dark gray color with light-yellow wooden slats for the seat and back rest. The park has a stone wall, green grass, and some trees. There are also some flowers in the park. The day appears sunny, as there are bright spots of sunlight on the grass and the woman.  The woman seems to be talking to herself or to someone who is not visible in the video, as she appears to be expressing some emotion, gesturing with her hands, etc.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (131).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench, looking at a smartphone. The person is wearing a red and black plaid shirt, dark blue jeans, and white sneakers with rose gold accents. A red headband is also worn. The person appears to be sending or reading messages on the smartphone. The bench is located outdoors in a paved area, with a brick wall behind it. Small, potted plants are visible in the background. The overall impression is of a casual, everyday scene.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (101).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a wooden park bench. The woman is wearing a purple and pink patterned dress. She is sitting on a bench that has wooden slats and black metal legs. The bench is located in a paved area with brick pavers. A brick wall is behind the bench. A small red pot is visible in the background. The video shows a series of still images of the woman, likely taken for social media or a similar purpose. The audio is unintelligible, but seems to be conversational in nature.  ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (90).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench, seemingly talking to herself or recording a video. She is wearing a red and maroon plaid shirt over a dark gray t-shirt with the words 'strong, sunny, smart' printed on it. She is also wearing a red headband, glasses, and light-gold colored canvas shoes. Her pants are dark blue jeans. The background is a brick wall and a paved area. There are some terracotta colored flowerpots visible in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (97).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench outdoors. They are looking at a smartphone and interacting with it, possibly scrolling through or looking at something on the phone.  The surrounding scenery includes a brick wall, a paved area with patterned paving stones, and potted plants (likely flower pots). The person is wearing a plaid shirt over a dark t-shirt with text on it, jeans, and casual shoes. They also have a red headband and glasses. ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (98).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking at a smartphone. The person is wearing a plaid shirt, dark blue jeans, and gold-colored sneakers. A red headband and glasses are also visible. The bench is made of light brown wood, with dark metal supports. The surrounding area is paved with colorful tiles, and a brick wall is visible behind the bench. Potted plants are also present in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (100).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking pensive. The person appears to be a young man, dressed in casual attire.  The bench is made of wood with metal supports.  A brick wall is visible in the background. The ground is paved with bricks. The person's facial expressions and body language suggest they are considering something.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (106).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench. She is looking down and appears to be talking or thinking about something. She is wearing a purple and floral patterned dress and light-grey flats. The park bench is a dark gray color with light-yellow wooden slats for the seat and back rest. The park has a stone wall, green grass, and some trees. There are also some flowers in the park. The day appears sunny, as there are bright spots of sunlight on the grass and the woman.  The woman seems to be talking to herself or to someone who is not visible in the video, as she appears to be expressing some emotion, gesturing with her hands, etc.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (131).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench, looking at a smartphone. The person is wearing a red and black plaid shirt, dark blue jeans, and white sneakers with rose gold accents. A red headband is also worn. The person appears to be sending or reading messages on the smartphone. The bench is located outdoors in a paved area, with a brick wall behind it. Small, potted plants are visible in the background. The overall impression is of a casual, everyday scene.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (101).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a wooden park bench. The woman is wearing a purple and pink patterned dress. She is sitting on a bench that has wooden slats and black metal legs. The bench is located in a paved area with brick pavers. A brick wall is behind the bench. A small red pot is visible in the background. The video shows a series of still images of the woman, likely taken for social media or a similar purpose. The audio is unintelligible, but seems to be conversational in nature.  ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (90).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench, seemingly talking to herself or recording a video. She is wearing a red and maroon plaid shirt over a dark gray t-shirt with the words 'strong, sunny, smart' printed on it. She is also wearing a red headband, glasses, and light-gold colored canvas shoes. Her pants are dark blue jeans. The background is a brick wall and a paved area. There are some terracotta colored flowerpots visible in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (97).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench outdoors. They are looking at a smartphone and interacting with it, possibly scrolling through or looking at something on the phone.  The surrounding scenery includes a brick wall, a paved area with patterned paving stones, and potted plants (likely flower pots). The person is wearing a plaid shirt over a dark t-shirt with text on it, jeans, and casual shoes. They also have a red headband and glasses. ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (98).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking at a smartphone. The person is wearing a plaid shirt, dark blue jeans, and gold-colored sneakers. A red headband and glasses are also visible. The bench is made of light brown wood, with dark metal supports. The surrounding area is paved with colorful tiles, and a brick wall is visible behind the bench. Potted plants are also present in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (100).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking pensive. The person appears to be a young man, dressed in casual attire.  The bench is made of wood with metal supports.  A brick wall is visible in the background. The ground is paved with bricks. The person's facial expressions and body language suggest they are considering something.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (106).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench. She is looking down and appears to be talking or thinking about something. She is wearing a purple and floral patterned dress and light-grey flats. The park bench is a dark gray color with light-yellow wooden slats for the seat and back rest. The park has a stone wall, green grass, and some trees. There are also some flowers in the park. The day appears sunny, as there are bright spots of sunlight on the grass and the woman.  The woman seems to be talking to herself or to someone who is not visible in the video, as she appears to be expressing some emotion, gesturing with her hands, etc.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (131).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench, looking at a smartphone. The person is wearing a red and black plaid shirt, dark blue jeans, and white sneakers with rose gold accents. A red headband is also worn. The person appears to be sending or reading messages on the smartphone. The bench is located outdoors in a paved area, with a brick wall behind it. Small, potted plants are visible in the background. The overall impression is of a casual, everyday scene.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (101).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a wooden park bench. The woman is wearing a purple and pink patterned dress. She is sitting on a bench that has wooden slats and black metal legs. The bench is located in a paved area with brick pavers. A brick wall is behind the bench. A small red pot is visible in the background. The video shows a series of still images of the woman, likely taken for social media or a similar purpose. The audio is unintelligible, but seems to be conversational in nature.  ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (90).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench, seemingly talking to herself or recording a video. She is wearing a red and maroon plaid shirt over a dark gray t-shirt with the words 'strong, sunny, smart' printed on it. She is also wearing a red headband, glasses, and light-gold colored canvas shoes. Her pants are dark blue jeans. The background is a brick wall and a paved area. There are some terracotta colored flowerpots visible in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (97).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench outdoors. They are looking at a smartphone and interacting with it, possibly scrolling through or looking at something on the phone.  The surrounding scenery includes a brick wall, a paved area with patterned paving stones, and potted plants (likely flower pots). The person is wearing a plaid shirt over a dark t-shirt with text on it, jeans, and casual shoes. They also have a red headband and glasses. ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (98).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking at a smartphone. The person is wearing a plaid shirt, dark blue jeans, and gold-colored sneakers. A red headband and glasses are also visible. The bench is made of light brown wood, with dark metal supports. The surrounding area is paved with colorful tiles, and a brick wall is visible behind the bench. Potted plants are also present in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (100).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking pensive. The person appears to be a young man, dressed in casual attire.  The bench is made of wood with metal supports.  A brick wall is visible in the background. The ground is paved with bricks. The person's facial expressions and body language suggest they are considering something.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (106).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench. She is looking down and appears to be talking or thinking about something. She is wearing a purple and floral patterned dress and light-grey flats. The park bench is a dark gray color with light-yellow wooden slats for the seat and back rest. The park has a stone wall, green grass, and some trees. There are also some flowers in the park. The day appears sunny, as there are bright spots of sunlight on the grass and the woman.  The woman seems to be talking to herself or to someone who is not visible in the video, as she appears to be expressing some emotion, gesturing with her hands, etc.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (131).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench, looking at a smartphone. The person is wearing a red and black plaid shirt, dark blue jeans, and white sneakers with rose gold accents. A red headband is also worn. The person appears to be sending or reading messages on the smartphone. The bench is located outdoors in a paved area, with a brick wall behind it. Small, potted plants are visible in the background. The overall impression is of a casual, everyday scene.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (101).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a wooden park bench. The woman is wearing a purple and pink patterned dress. She is sitting on a bench that has wooden slats and black metal legs. The bench is located in a paved area with brick pavers. A brick wall is behind the bench. A small red pot is visible in the background. The video shows a series of still images of the woman, likely taken for social media or a similar purpose. The audio is unintelligible, but seems to be conversational in nature.  ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (90).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench, seemingly talking to herself or recording a video. She is wearing a red and maroon plaid shirt over a dark gray t-shirt with the words 'strong, sunny, smart' printed on it. She is also wearing a red headband, glasses, and light-gold colored canvas shoes. Her pants are dark blue jeans. The background is a brick wall and a paved area. There are some terracotta colored flowerpots visible in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (97).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench outdoors. They are looking at a smartphone and interacting with it, possibly scrolling through or looking at something on the phone.  The surrounding scenery includes a brick wall, a paved area with patterned paving stones, and potted plants (likely flower pots). The person is wearing a plaid shirt over a dark t-shirt with text on it, jeans, and casual shoes. They also have a red headband and glasses. ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (98).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking at a smartphone. The person is wearing a plaid shirt, dark blue jeans, and gold-colored sneakers. A red headband and glasses are also visible. The bench is made of light brown wood, with dark metal supports. The surrounding area is paved with colorful tiles, and a brick wall is visible behind the bench. Potted plants are also present in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (100).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking pensive. The person appears to be a young man, dressed in casual attire.  The bench is made of wood with metal supports.  A brick wall is visible in the background. The ground is paved with bricks. The person's facial expressions and body language suggest they are considering something.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (106).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench. She is looking down and appears to be talking or thinking about something. She is wearing a purple and floral patterned dress and light-grey flats. The park bench is a dark gray color with light-yellow wooden slats for the seat and back rest. The park has a stone wall, green grass, and some trees. There are also some flowers in the park. The day appears sunny, as there are bright spots of sunlight on the grass and the woman.  The woman seems to be talking to herself or to someone who is not visible in the video, as she appears to be expressing some emotion, gesturing with her hands, etc.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (131).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench, looking at a smartphone. The person is wearing a red and black plaid shirt, dark blue jeans, and white sneakers with rose gold accents. A red headband is also worn. The person appears to be sending or reading messages on the smartphone. The bench is located outdoors in a paved area, with a brick wall behind it. Small, potted plants are visible in the background. The overall impression is of a casual, everyday scene.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (101).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a wooden park bench. The woman is wearing a purple and pink patterned dress. She is sitting on a bench that has wooden slats and black metal legs. The bench is located in a paved area with brick pavers. A brick wall is behind the bench. A small red pot is visible in the background. The video shows a series of still images of the woman, likely taken for social media or a similar purpose. The audio is unintelligible, but seems to be conversational in nature.  ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (90).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench, seemingly talking to herself or recording a video. She is wearing a red and maroon plaid shirt over a dark gray t-shirt with the words 'strong, sunny, smart' printed on it. She is also wearing a red headband, glasses, and light-gold colored canvas shoes. Her pants are dark blue jeans. The background is a brick wall and a paved area. There are some terracotta colored flowerpots visible in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (97).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench outdoors. They are looking at a smartphone and interacting with it, possibly scrolling through or looking at something on the phone.  The surrounding scenery includes a brick wall, a paved area with patterned paving stones, and potted plants (likely flower pots). The person is wearing a plaid shirt over a dark t-shirt with text on it, jeans, and casual shoes. They also have a red headband and glasses. ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (98).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking at a smartphone. The person is wearing a plaid shirt, dark blue jeans, and gold-colored sneakers. A red headband and glasses are also visible. The bench is made of light brown wood, with dark metal supports. The surrounding area is paved with colorful tiles, and a brick wall is visible behind the bench. Potted plants are also present in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (100).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking pensive. The person appears to be a young man, dressed in casual attire.  The bench is made of wood with metal supports.  A brick wall is visible in the background. The ground is paved with bricks. The person's facial expressions and body language suggest they are considering something.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (106).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench. She is looking down and appears to be talking or thinking about something. She is wearing a purple and floral patterned dress and light-grey flats. The park bench is a dark gray color with light-yellow wooden slats for the seat and back rest. The park has a stone wall, green grass, and some trees. There are also some flowers in the park. The day appears sunny, as there are bright spots of sunlight on the grass and the woman.  The woman seems to be talking to herself or to someone who is not visible in the video, as she appears to be expressing some emotion, gesturing with her hands, etc.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (131).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench, looking at a smartphone. The person is wearing a red and black plaid shirt, dark blue jeans, and white sneakers with rose gold accents. A red headband is also worn. The person appears to be sending or reading messages on the smartphone. The bench is located outdoors in a paved area, with a brick wall behind it. Small, potted plants are visible in the background. The overall impression is of a casual, everyday scene.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (101).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a wooden park bench. The woman is wearing a purple and pink patterned dress. She is sitting on a bench that has wooden slats and black metal legs. The bench is located in a paved area with brick pavers. A brick wall is behind the bench. A small red pot is visible in the background. The video shows a series of still images of the woman, likely taken for social media or a similar purpose. The audio is unintelligible, but seems to be conversational in nature.  ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (90).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench, seemingly talking to herself or recording a video. She is wearing a red and maroon plaid shirt over a dark gray t-shirt with the words 'strong, sunny, smart' printed on it. She is also wearing a red headband, glasses, and light-gold colored canvas shoes. Her pants are dark blue jeans. The background is a brick wall and a paved area. There are some terracotta colored flowerpots visible in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (97).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench outdoors. They are looking at a smartphone and interacting with it, possibly scrolling through or looking at something on the phone.  The surrounding scenery includes a brick wall, a paved area with patterned paving stones, and potted plants (likely flower pots). The person is wearing a plaid shirt over a dark t-shirt with text on it, jeans, and casual shoes. They also have a red headband and glasses. ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (98).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking at a smartphone. The person is wearing a plaid shirt, dark blue jeans, and gold-colored sneakers. A red headband and glasses are also visible. The bench is made of light brown wood, with dark metal supports. The surrounding area is paved with colorful tiles, and a brick wall is visible behind the bench. Potted plants are also present in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (100).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking pensive. The person appears to be a young man, dressed in casual attire.  The bench is made of wood with metal supports.  A brick wall is visible in the background. The ground is paved with bricks. The person's facial expressions and body language suggest they are considering something.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (106).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench. She is looking down and appears to be talking or thinking about something. She is wearing a purple and floral patterned dress and light-grey flats. The park bench is a dark gray color with light-yellow wooden slats for the seat and back rest. The park has a stone wall, green grass, and some trees. There are also some flowers in the park. The day appears sunny, as there are bright spots of sunlight on the grass and the woman.  The woman seems to be talking to herself or to someone who is not visible in the video, as she appears to be expressing some emotion, gesturing with her hands, etc.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (131).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench, looking at a smartphone. The person is wearing a red and black plaid shirt, dark blue jeans, and white sneakers with rose gold accents. A red headband is also worn. The person appears to be sending or reading messages on the smartphone. The bench is located outdoors in a paved area, with a brick wall behind it. Small, potted plants are visible in the background. The overall impression is of a casual, everyday scene.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (101).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a wooden park bench. The woman is wearing a purple and pink patterned dress. She is sitting on a bench that has wooden slats and black metal legs. The bench is located in a paved area with brick pavers. A brick wall is behind the bench. A small red pot is visible in the background. The video shows a series of still images of the woman, likely taken for social media or a similar purpose. The audio is unintelligible, but seems to be conversational in nature.  ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (90).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench, seemingly talking to herself or recording a video. She is wearing a red and maroon plaid shirt over a dark gray t-shirt with the words 'strong, sunny, smart' printed on it. She is also wearing a red headband, glasses, and light-gold colored canvas shoes. Her pants are dark blue jeans. The background is a brick wall and a paved area. There are some terracotta colored flowerpots visible in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (97).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench outdoors. They are looking at a smartphone and interacting with it, possibly scrolling through or looking at something on the phone.  The surrounding scenery includes a brick wall, a paved area with patterned paving stones, and potted plants (likely flower pots). The person is wearing a plaid shirt over a dark t-shirt with text on it, jeans, and casual shoes. They also have a red headband and glasses. ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (98).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking at a smartphone. The person is wearing a plaid shirt, dark blue jeans, and gold-colored sneakers. A red headband and glasses are also visible. The bench is made of light brown wood, with dark metal supports. The surrounding area is paved with colorful tiles, and a brick wall is visible behind the bench. Potted plants are also present in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (100).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking pensive. The person appears to be a young man, dressed in casual attire.  The bench is made of wood with metal supports.  A brick wall is visible in the background. The ground is paved with bricks. The person's facial expressions and body language suggest they are considering something.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (106).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench. She is looking down and appears to be talking or thinking about something. She is wearing a purple and floral patterned dress and light-grey flats. The park bench is a dark gray color with light-yellow wooden slats for the seat and back rest. The park has a stone wall, green grass, and some trees. There are also some flowers in the park. The day appears sunny, as there are bright spots of sunlight on the grass and the woman.  The woman seems to be talking to herself or to someone who is not visible in the video, as she appears to be expressing some emotion, gesturing with her hands, etc.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (131).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench, looking at a smartphone. The person is wearing a red and black plaid shirt, dark blue jeans, and white sneakers with rose gold accents. A red headband is also worn. The person appears to be sending or reading messages on the smartphone. The bench is located outdoors in a paved area, with a brick wall behind it. Small, potted plants are visible in the background. The overall impression is of a casual, everyday scene.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (101).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a wooden park bench. The woman is wearing a purple and pink patterned dress. She is sitting on a bench that has wooden slats and black metal legs. The bench is located in a paved area with brick pavers. A brick wall is behind the bench. A small red pot is visible in the background. The video shows a series of still images of the woman, likely taken for social media or a similar purpose. The audio is unintelligible, but seems to be conversational in nature.  ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (90).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A woman is sitting on a park bench, seemingly talking to herself or recording a video. She is wearing a red and maroon plaid shirt over a dark gray t-shirt with the words 'strong, sunny, smart' printed on it. She is also wearing a red headband, glasses, and light-gold colored canvas shoes. Her pants are dark blue jeans. The background is a brick wall and a paved area. There are some terracotta colored flowerpots visible in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (97).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a wooden bench outdoors. They are looking at a smartphone and interacting with it, possibly scrolling through or looking at something on the phone.  The surrounding scenery includes a brick wall, a paved area with patterned paving stones, and potted plants (likely flower pots). The person is wearing a plaid shirt over a dark t-shirt with text on it, jeans, and casual shoes. They also have a red headband and glasses. ",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (98).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking at a smartphone. The person is wearing a plaid shirt, dark blue jeans, and gold-colored sneakers. A red headband and glasses are also visible. The bench is made of light brown wood, with dark metal supports. The surrounding area is paved with colorful tiles, and a brick wall is visible behind the bench. Potted plants are also present in the background.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (100).mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video> Describe the video",
+        "role": "user"
+      },
+      {
+        "content": "A person is sitting on a park bench, looking pensive. The person appears to be a young man, dressed in casual attire.  The bench is made of wood with metal supports.  A brick wall is visible in the background. The ground is paved with bricks. The person's facial expressions and body language suggest they are considering something.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (106).mp4"
+    ]
+  },
+  {
     "messages": [
       {
         "content": "<video> Describe the video",
@@ -103,3 +1154,4 @@
       "/kaggle/input/human-activity-recognition-video-dataset/Human Activity Recognition - Video Dataset/Sitting/Sitting (106).mp4"
     ]
   }
+]
